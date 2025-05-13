@@ -3,3 +3,29 @@ node_modules/
 
 # Ignore environment files
 .env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code settings
+.vscode/
+
+# OS backup files
+*.bak
+*.tmp
+
+# ignore temporary folders
+dist/
+build/

@@ -5,11 +5,6 @@ node_modules/
 .env
 
 # Logs
-logs
-*.log
-npm-debug.log*
-
-# Logs
 logs/
 *.log
 npm-debug.log*
